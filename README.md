@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a cryptocurrency research analyst at a decentralized autonomous organization. I am also a freelancing blockchain developer.
+I am currently a freelancing blockchain developer. I am also a cryptocurrency research analyst at a decentralized autonomous organization.
 
 ## Blockchain Development (EVM)
 - Solidity
