@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a CTO at a web3 startup. I am also a cryptocurrency research analyst at a decentralized autonomous organization.
+I am currently a CTO at a Minting Melodies, a NFT Minting Firm. I am also a cryptocurrency research analyst at a decentralized autonomous organization.
 
 ## Blockchain Development (EVM)
 - Solidity
