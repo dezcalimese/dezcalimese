@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a CTO at Minting Melodies, an NFT Minting Firm as well as a Blockchain Developer Intern at Cointinuum BRX. I am also a cryptocurrency research analyst at a decentralized autonomous organization.
+I am currently a Blockchain Developer at Cointinuum BRX, a CTO/Founding Engineer at Minting Melodies, an NFT Minting Firm and also a cryptocurrency research analyst at a decentralized autonomous organization.
 
 ## Blockchain Development (EVM)
 - Solidity
