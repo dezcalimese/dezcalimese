@@ -15,6 +15,7 @@ I am currently a Blockchain Developer at Cointinuum BRX, a CTO/Founding Engineer
 - Python
 - SQL
 - JavaScript
+- Rust
 
 <!--
 **dezcalimese/dezcalimese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
