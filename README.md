@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dezcalimese&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dezcalimese&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=dezcalimese&icon=0&color=8)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/dezcalimese) 
 
