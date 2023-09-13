@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cointinuum BRX<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with becoming a better smart contract auditor<br>🌱 I’m currently learning about Solana and Sui smart contract development
+🔭 I’m currently working on Bricks Exchange<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with becoming a better smart contract auditor<br>🌱 I’m currently learning about Solana and Sui smart contract development
 
 
 ## 🌐 Socials:
