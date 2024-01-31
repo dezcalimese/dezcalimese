@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bricks Exchange<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with becoming a better smart contract auditor<br>🌱 I’m currently learning about Solana and Move smart contract development
+🔭 I’m currently working on Bricks Exchange<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with becoming a better smart contract auditor<br>🌱 I’m currently learning about machine learning and MEV bots
 
 
 ## 🌐 Socials:
